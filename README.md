@@ -2,10 +2,8 @@
 
 Benvenuta/o sul mio GitHub! Sono Ania, una sviluppatrice frontend con un occhio per il design e una passione per creare interfacce belle e intuitive. Come un gatto curioso, esploro il mondo del codice, sempre alla ricerca della prossima sfida. Unisco la precisione della programmazione con l'arte del design, creando esperienze senza soluzione di continuità, riga di codice dopo riga di codice.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniaBeninati&show_icons=true&theme=cobalt)
-
 ## 🌟 Chi Sono
-- **🐾 Maghetta del Codice:** Trasformo problemi complessi in soluzioni semplici con JavaScript, HTML, CSS e React.
+- **🐾 Maghetta del Codice:** Trasformo problemi complessi in soluzioni semplici con JavaScript, HTML, CSS e React. O almeno ci provo! 😄 
 - **🎨 Amante dell’UX:** Combino estetica e funzionalità per creare esperienze utente visivamente accattivanti e intuitive.
 - **📍 Posizione:** Palermo, dove il sole, l'arte e il buon cibo ispirano ogni pixel che progetto.
 
@@ -42,6 +40,8 @@ Benvenuta/o sul mio GitHub! Sono Ania, una sviluppatrice frontend con un occhio 
 - Come un gatto, sono un’osservatrice attenta—sempre pronta ad imparare e ad adattarmi a qualsiasi ambiente.
 - Porto la mia passione per il design in ogni progetto, assicurando che bellezza e funzionalità convivano in armonia.
 - Credo nel lavoro di squadra e nel dialogo costruttivo, portando energia positiva in ogni progetto.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniaBeninati&show_icons=true&theme=cobalt)
 
 ## 🌐 Connettiti con Me
 - [LinkedIn](https://www.linkedin.com/in/stefania-beninati-208577202)
