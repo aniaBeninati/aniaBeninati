@@ -5,7 +5,10 @@ Benvenuta/o sul mio GitHub! Sono Ania, una sviluppatrice frontend con un occhio 
 ## 🌟 Chi Sono
 - **🐾 Maghetta del Codice:** Trasformo problemi complessi in soluzioni semplici con JS, HTML, CSS e React. Almeno ci provo!😄 
 - **🎨 Amante dell’UX:** Combino estetica e funzionalità per creare esperienze utente visivamente accattivanti e intuitive.
+- **🐝 Appassionata delle API:** Amo integrare diverse API per arricchire le funzionalità dei miei progetti, creando connessioni tra il codice e il mondo esterno.
 - **📍 Posizione:** Palermo è la mia base, tra sole, arte e buon cibo, ma la mia scrivania è ovunque: lavoro da remoto per ogni città, portando creatività e codice ovunque ci sia una connessione.
+- **🏄‍♀️ Surfista del Codice:** Come un surfista affronta le onde, affronto i bug e le sfide del codice: con equilibrio, pazienza e un po' di divertimento, cavalcando ogni progetto fino alla soluzione perfetta.
+
 
 ## 📚 Le Mie Competenze
 - **Linguaggi & Frameworks:** JavaScript, TypeScript, HTML5, CSS3, React, Next.js
